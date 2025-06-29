@@ -9,6 +9,9 @@ Introduction
 .. warning::
    Before starting anything, you should already have some basic experience with programming, reverse engineering, setting up servers, and using tools for debugging. Making and running a revival is not easy. It takes a lot of work, time, and problem-solving. If you're just trying to bring back old Roblox for fun without learning the technical side, this project might not be for you.
 
+.. note::
+   This wiki and its contents are for educational purposes only. We are not affiliated with Roblox Corporation or any of its subsidiaries. Additionally, we are not affiliated with or responsible for any revival projects that may be created using this guide.
+
 Welcome to the **Roblox Revival Wiki**, a guide made to help people understand how to create and run a Roblox revival project. This wiki was made because there's no easy, open, or clear resource that explains how to do this. Most of the information is scattered across the internet, and a lot of the people who know how to do it don't share that knowledge.
 
 This project isn't just about bringing back old Roblox. It's about learning how things worked, saving history, and building something that's fun. But there are also real challenges, like legal issues, broken tools, and toxic communities. That's why this wiki also talks about the problems and how we can make the revival scene better for everyone.
