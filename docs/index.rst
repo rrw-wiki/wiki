@@ -67,6 +67,7 @@ We are actively looking for contributors! If you have knowledge, tools, or corre
    :maxdepth: 2
    :caption: Contents:
 
+   legality
    prerequisites
    clients
    backend
