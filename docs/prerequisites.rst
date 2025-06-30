@@ -56,7 +56,7 @@ Your choice of programming language is up to you. These are some of the most com
 - `Bun <https://bun.sh/>`_ (**recommended alternative to Node.js**)
 - `C# <https://learn.microsoft.com/en-us/dotnet/csharp/>`_
 - `Go <https://go.dev/>`_
-- `Rust <https://www.rust-lang.org/>`_ (*required for some tools by worships*)
+- `Rust <https://www.rust-lang.org/>`_ (*required if you are building certain tools by worships*)
 - `C++ <https://isocpp.org/>`_
 
 Other Useful Tools
