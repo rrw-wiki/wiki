@@ -30,6 +30,7 @@ IDEs and Compilers
 Throughout this wiki we will be showing various examples in different IDEs. We recommend using one of the following if you don't already have a preferred development environment.
 
 - **Recommended IDE**: `Visual Studio Code <https://code.visualstudio.com/>`_
+- **Alternative (JS/TS)**: `JetBrains WebStorm <https://www.jetbrains.com/webstorm/>`_
 - **Alternative (C/C++)**: `Microsoft Visual Studio <https://visualstudio.microsoft.com/>`_
 
 Client-Related Tools
