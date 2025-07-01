@@ -70,9 +70,4 @@ We are actively looking for contributors! If you have knowledge, tools, or corre
    legality
    prerequisites
    core-concepts
-   patching/introduction
-   patching/robloxs-security
-   patching/unsafe-patches
-   patching/windows/auto-patcher
-   patching/windows/manual
-   patching/windows/manual-vmp
+   patching
