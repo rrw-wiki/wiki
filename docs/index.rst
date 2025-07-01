@@ -64,7 +64,7 @@ Contributing
 We are actively looking for contributors! If you have knowledge, tools, or corrections to share, or even just want to help improve the writing, please submit a pull request or open an issue on our GitHub repository. Your contributions will help make this wiki better for everyone.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
 
    legality
