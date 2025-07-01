@@ -64,13 +64,15 @@ Contributing
 We are actively looking for contributors! If you have knowledge, tools, or corrections to share, or even just want to help improve the writing, please submit a pull request or open an issue on our GitHub repository. Your contributions will help make this wiki better for everyone.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    legality
    prerequisites
-   clients
-   backend
-   assets
-   deployment
-   community
+   core-concepts
+   patching/introduction
+   patching/robloxs-security
+   patching/unsafe-patches
+   patching/windows/auto-patcher
+   patching/windows/manual
+   patching/windows/manual-vmp
